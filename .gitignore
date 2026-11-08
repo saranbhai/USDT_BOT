@@ -1,0 +1,11 @@
+bin/
+obj/
+tests/**/bin/
+tests/**/obj/
+botsettings.local.json
+data/
+*.db
+*.db-shm
+*.db-wal
+*.lock
+.env
